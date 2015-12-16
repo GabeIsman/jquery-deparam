@@ -1,0 +1,24 @@
+{
+  "name": "jquery-deparam",
+  "version": "1.0.0",
+  "description": "A standalone version of jQuery BBQ's deparam function.",
+  "main": "jquery-deparam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeIsman/jquery-deparam.git"
+  },
+  "keywords": [
+    "jquery",
+    "deparam",
+    "jquery-bbq"
+  ],
+  "author": "Ben Alman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeIsman/jquery-deparam/issues"
+  },
+  "homepage": "https://github.com/GabeIsman/jquery-deparam#readme"
+}
